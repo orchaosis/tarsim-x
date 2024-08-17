@@ -1,7 +1,8 @@
 {
     "name": "Tarsim Verim Hesaplama",
     "short_name": "tarsim-verim-hesaplama",
-    "start_url": "/tarsim-x",
+    "start_url": "./",
+    "scope": ".",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#000000",
